@@ -1,4 +1,4 @@
 webservices
 ===========
 
-Creating webservers using sinatra and rspec.
+Creating webservices using sinatra and rspec.
